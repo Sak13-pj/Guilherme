@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Koth
 
-**`Desenvolvedora FullStack`**
+**`Cibersegurança purple team`**
 
   Me chamo Guilherme Koth, tenho 21 anos e sou natural do São Paulo. Concluí o ensino médio no Parque da Juventude, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, terminei o tecnologo de Cibersegurança da informação. Sou apaixonada por tecnologia e compartilho meu conhecimento através do canal no github, e faço prática de laboratórios no tryhakcme com +212 laboratórios e 33 bandeiras.
 Tenho familiaridade com  purple team.
