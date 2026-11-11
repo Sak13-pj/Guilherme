@@ -4,22 +4,21 @@
 
   Me chamo Guilherme Koth, tenho 21 anos e sou natural do São Paulo. Concluí o ensino médio no Parque da Juventude, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, terminei o tecnologo de Cibersegurança da informação. Sou apaixonada por tecnologia e compartilho meu conhecimento através do canal no github, e faço prática de laboratórios no tryhakcme com +212 laboratórios e 33 bandeiras.
 Tenho familiaridade com  purple team.
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href=" https://github.com/Sak13-pj?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Sak13-pj?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Sak13-pj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
