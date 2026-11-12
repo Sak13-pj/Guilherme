@@ -3,7 +3,7 @@
 
 ### `Cybersecurity | Pentest | Purple Team`
 
-Olá! Sou estudante de Cibersegurança, apaixonado por tecnologia, segurança da informação e investigação de vulnerabilidades.
+Olá! Sou estudante formado de Cibersegurança, apaixonado por tecnologia, segurança da informação e investigação de vulnerabilidades.
 
 Atualmente, estou desenvolvendo minhas habilidades em segurança ofensiva e defensiva, com foco em testes de intrusão, análise de vulnerabilidades, redes e monitoramento de ameaças.
 
@@ -53,10 +53,10 @@ Meu objetivo é transformar conhecimento teórico em projetos práticos, documen
 
 ### 📚 Formação e certificações
 
-- Graduação tecnológica em Cibersegurança — Anhanguera (em andamento)
+- Graduação tecnológica em Cibersegurança — Anhanguera 
 - Google Cybersecurity Professional Certificate
 - Estudos preparatórios para CompTIA Security+ (SY0-701)
-
+- Pratica laboratorial com tryhackme blue e red team
 ---
 
 ### 🧪 Laboratórios e projetos
