@@ -100,7 +100,7 @@ Meu perfil de aprendizagem prática em cibersegurança, com atividades em labora
 
 <p align="left">
   <a href="https://tryhackme.com/p/pksentry">
-    <img src="https://img.shields.io/badge/TryHackMe-pksentr-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+    <img src="https://img.shields.io/badge/TryHackMe-pksentry-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
 </p>
 
