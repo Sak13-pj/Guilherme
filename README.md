@@ -76,10 +76,10 @@ Meus projetos incluem atividades de:
 
 ### 📊 GitHub
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Sak13-pj">
   <img src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Estrelas do GitHub"/>
 </a>
-<a href="https://github.com/SEU_USUARIO?tab=followers">
+<a href="https://github.com/Sak13-pj?tab=followers">
   <img src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores do GitHub"/>
 </a>
 
