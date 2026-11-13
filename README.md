@@ -88,12 +88,6 @@ Meus projetos incluem atividades de:
 
 ## TryHackMe Profile
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Sak13-pj">
-    <img src="https://img.shields.io/badge/TryHackMe-Sak13--pj-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
-  </a>
-</p>
-
 Meu perfil de aprendizagem prática em cibersegurança, com atividades em laboratórios, desafios e salas voltadas para:
 
 - Offensive Security e Penetration Testing
@@ -103,6 +97,13 @@ Meu perfil de aprendizagem prática em cibersegurança, com atividades em labora
 - Linux e ferramentas de segurança
 
 **Perfil:** [TryHackMe — Sak13-pj](https://tryhackme.com/p/Sak13-pj)
+
+<p align="left">
+  <a href="https://tryhackme.com/p/Sak13-pj">
+    <img src="https://img.shields.io/badge/TryHackMe-Sak13--pj-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+  </a>
+</p>
+
 
 ---
 
