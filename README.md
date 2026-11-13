@@ -57,6 +57,7 @@ Meu objetivo é transformar conhecimento teórico em projetos práticos, documen
 - Google Cybersecurity Professional Certificate
 - Estudos preparatórios para CompTIA Security+ (SY0-701)
 - Pratica laboratorial com tryhackme blue e red team
+- Estudos preparatórios para JRpentest e SOC1
 ---
 
 ### 🧪 Laboratórios e projetos
@@ -82,6 +83,26 @@ Meus projetos incluem atividades de:
 <a href="https://github.com/Sak13-pj?tab=followers">
   <img src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores do GitHub"/>
 </a>
+
+---
+
+## TryHackMe Profile
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Sak13-pj">
+    <img src="https://img.shields.io/badge/TryHackMe-Sak13--pj-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+  </a>
+</p>
+
+Meu perfil de aprendizagem prática em cibersegurança, com atividades em laboratórios, desafios e salas voltadas para:
+
+- Offensive Security e Penetration Testing
+- Blue Team e SOC Operations
+- Cyber Threat Intelligence
+- Network Security
+- Linux e ferramentas de segurança
+
+**Perfil:** [TryHackMe — Sak13-pj](https://tryhackme.com/p/Sak13-pj)
 
 ---
 
